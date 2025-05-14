@@ -5,3 +5,5 @@ U
 %contracts/attribute-registration.clar,2/d/2dfec2711947f829a52bce00eedeb58c55480e8c
 Q
 !contracts/consent-management.clar,2/e/2e5a2504188b18fe18335d2beebfa11e060fc3fb
+]
+-contracts/identity-provider-verification.clar,6/7/67270450d2e490323f7ebeb5490f61ee0e50accf
